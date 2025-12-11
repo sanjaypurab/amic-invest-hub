@@ -143,10 +143,10 @@ const Contact = () => {
                       <div>
                         <p className="font-semibold text-primary">Email</p>
                         <a
-                          href="mailto:info@alsaladin.com"
+                          href="mailto:info@alsadinmuscatinvest.com"
                           className="text-sm text-muted-foreground hover:text-accent transition-colors"
                         >
-                          info@alsaladin.com
+                          info@alsadinmuscatinvest.com
                         </a>
                       </div>
                     </div>
